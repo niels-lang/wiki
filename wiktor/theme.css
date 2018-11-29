@@ -3,9 +3,9 @@
 .light, :root {
    --font-code: "Fira Code";
    --font-text: "Montserrat";
-   --fg-primary: #212121;
+   --fg-primary: #ccc;
    --bg-primary: #b1c451;
-   --fg-secondary: #212121;
+   --fg-secondary: #ccc;
    --bg-secondary: #b1c451;
    --accent: #607D8B;
    --entry-border: 0 0 1px 0 var(--fg-secondary);
