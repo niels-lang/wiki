@@ -4,15 +4,15 @@
    --font-code: "Fira Code";
    --font-text: "Montserrat";
    --fg-primary: #212121;
-   --bg-primary: #fff;
+   --bg-primary: #b1c451;
    --fg-secondary: #212121;
-   --bg-secondary: #fff;
+   --bg-secondary: #b1c451;
    --accent: #607D8B;
    --entry-border: 0 0 1px 0 var(--fg-secondary);
    --c-string: #37bc98;
    --c-keyword: #e9573f;
-   --c-comment: #ccd1d9;
-   --c-punctuation: #ccd1d9;
+   --c-comment: #889645;
+   --c-punctuation: #889645;
 }
 
 .dark {
